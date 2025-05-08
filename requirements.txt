@@ -1,0 +1,7 @@
+gymnasium
+stable-baselines3
+transformers
+sentence-transformers
+torch
+streamlit
+nltk
