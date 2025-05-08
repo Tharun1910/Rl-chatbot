@@ -10,7 +10,6 @@ if 'torch.classes' in sys.modules:
 
 st.title(" Personalized Chatbot using RL")
 st.write("This is a personalized chatbot that uses reinforcement learning to generate responses.")
-st.write("Type your message below and the chatbot will respond.")
 
 model = PPO.load("models/chatbot_rl_agent")
 
